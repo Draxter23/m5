@@ -9,6 +9,10 @@ public class Main {
         for(i=0; i < cotxe.length ; i++){
             System.out.println(cotxe[i]);
         }
+
+        for (i=0; i < 2; i++) {
+            System.out.println("Axel Ricardo Ruiz Vigo");
+        }
     }
 
     /*
